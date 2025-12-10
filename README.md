@@ -1,4 +1,3 @@
-# ml-projects
 # Projetos de Machine Learning e Data Science
 
 Este repositório reúne meus projetos de **Machine Learning**, **Deep Learning** e **Ciência de Dados**, explorando desde preparação e análise de dados até construção, otimização e avaliação de modelos.
