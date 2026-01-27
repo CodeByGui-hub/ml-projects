@@ -1,6 +1,6 @@
 # Projetos de Machine Learning e Data Science
 
-Este repositório reúne meus projetos de **Machine Learning**, **Deep Learning** e **Ciência de Dados**, explorando desde preparação e análise de dados até construção, otimização e avaliação de modelos.
+Repositório em desenvolvimento que reúne meus projetos de **Machine Learning**, **Deep Learning** e **Ciência de Dados**, explorando desde preparação e análise de dados até construção, otimização e avaliação de modelos.
 
 Funciona como um **laboratório de IA**, onde experimento técnicas, desenvolvo pipelines completos e transformo dados em insights e soluções inteligentes.
 
